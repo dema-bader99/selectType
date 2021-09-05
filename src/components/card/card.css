@@ -1,0 +1,25 @@
+.dox-div {
+    width: 500px;
+    position: absolute;
+    margin: 50px;
+}
+.span-type {
+    float: right;
+    position: relative;
+}
+.button-sec {
+    margin-top: 50px;
+}
+button {
+    width: 130px;
+    margin-right: 20px;
+    border-radius: 4px;
+    font-size: medium;
+}
+
+.sel-item {
+    margin-top: 50px;
+}
+.xbox {
+    border: 1px solid black;
+}

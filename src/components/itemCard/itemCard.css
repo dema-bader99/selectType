@@ -1,0 +1,15 @@
+.item-card {
+    display: block;
+    margin-top: 50px;
+    border-bottom: 1px solid black;
+}
+
+.item-type {
+    width: 130px;
+    margin: -7px -65px;
+    float: right;
+    border: none;
+    border-radius: 4px;
+    font-size: medium;
+    position: relative;
+}
